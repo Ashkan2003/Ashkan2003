@@ -11,8 +11,9 @@
     <br>
   </samp>
 </p>
-
-![](https://github.com/Ashkan2003/Ashkan2003/blob/main/3zpz8WQe4SNGkE7moUEDKrWLaiAXZADzKvxvxYBsWidJzvvyR4HmfCEJcxPxQn2jMVz5buSVGmVAoj9bMrXDRD3ZPLncvTQyo6Yq1DjNbzjJwnXVGT3VYVXNmC7Nsi3rb4jqDaDbkzSwbnpo5QY5.gif)
+<p align="center">
+<img src="https://github.com/Ashkan2003/Ashkan2003/blob/main/3zpz8WQe4SNGkE7moUEDKrWLaiAXZADzKvxvxYBsWidJzvvyR4HmfCEJcxPxQn2jMVz5buSVGmVAoj9bMrXDRD3ZPLncvTQyo6Yq1DjNbzjJwnXVGT3VYVXNmC7Nsi3rb4jqDaDbkzSwbnpo5QY5.gif" width="550" height="250"/>
+</p>
 
 <p align="center">
  <a href="https://linkedin.com/in/ashkan-bibioghli" target="_blank">
