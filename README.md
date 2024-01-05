@@ -31,7 +31,7 @@
  ✌️ Enjoy to do programming and sharing knowledge <br/> <br/>
  👨🏻‍💻 Love to writing code and learning new features<br/> <br/>
  📧 Reach me anytime: ashkanpc2003@gmail.com<br/> <br/>
- 🔭 I’m currently working on a issue tracker program<br> <br/>
+ 🔭 I’m currently working on trade program<br> <br/>
  🎹 a music lover and pianist
  
 
