@@ -6,7 +6,7 @@
 <p align="center"> 
   <samp>
   <br>
-  「I'm a frontend Developer and a crazy technology lover who enjoys struggling with new tools and technologies. I am putting in my best efforts to become more and more experienced. time is short so let's code」
+  「I'm a web Developer and a crazy technology lover who enjoys struggling with new tools and technologies. I am putting in my best efforts to become more and more experienced. time is short so let's code」
   <br>
     <br>
   </samp>
