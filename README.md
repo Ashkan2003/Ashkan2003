@@ -1,26 +1,15 @@
 <!-- Intro  -->
-<h3 align="center">
-  <samp>&gt; Hi there👋, I am Ashkan
-</h3>
 
-<p align="center"> 
-  <samp>
-  <br>
-  「I'm Web Developer and a crazy technology lover who enjoys struggling with new tools and technologies. I am putting in my best efforts to become more and more experienced. time is short so let's code」
-  <br>
-    <br>
-  </samp>
+<h1 align="center">Hi 👋, I'm Ashkan</h1>
+<h3 align="center">「I'm Web Developer and a crazy technology lover who enjoys struggling with new tools and technologies. I am putting in my best efforts to become more and more experienced. time is short so let's code」</h3>
+
+  
+
 </p>
 <p align="center">
 <img src="https://github.com/Ashkan2003/Ashkan2003/blob/main/3zpz8WQe4SNGkE7moUEDKrWLaiAXZADzKvxvxYBsWidJzvvyR4HmfCEJcxPxQn2jMVz5buSVGmVAoj9bMrXDRD3ZPLncvTQyo6Yq1DjNbzjJwnXVGT3VYVXNmC7Nsi3rb4jqDaDbkzSwbnpo5QY5.gif" width="550" height="250"/>
 </p>
 
-<p align="center">
- <a href="https://linkedin.com/in/ashkan-bibioghli" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ashkan"/>
- </a>
-</p>
-<br />
 
 <!-- About Section -->
  # About me
@@ -33,10 +22,17 @@
  📧 Reach me anytime: ashkanpc2003@gmail.com<br/> <br/>
  🔭 I’m currently working on trade program<br> <br/>
  🎹 a music lover and pianist
- 
-
-
 </p>
+<br>
+<br>
+
+## Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/https://linkedin.com/in/ashkan-bibioghli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/ashkan-bibioghli" height="30" width="40" /></a>
+
+
+
+
 
 <br/>
 <br/>
@@ -59,5 +55,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
+
+
 
 
